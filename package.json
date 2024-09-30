@@ -1,7 +1,7 @@
 {
-  "name":"VAJIRA-MD",
+  "name":"Feng Zhi by Koji.",
   "version":"2.1.2",
-  "description":"VAJIRA-MD has been designed to make things easier and fun while using WhatsApp. 👨‍💻❤️",
+  "description":"Feng Zhi has been designed to make things easier while using WhatsApp. ",
   "main":"index.js",
   "scripts":{
     "start":"pm2 start index.js --deep-monitoring --attach --name vajira",
